@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Now I have edited the tutorial.
+Now I have edited the comments.
